@@ -1,0 +1,1 @@
+window.TOC="<p class=\"work\"><a href=\"index.html\">Protocol on the Staff Complement</a></p><ul><li><a href=\"text.html\"><span data-l=\"en\">Section</span><span data-l=\"de\">Abschnitt</span><span data-l=\"fr\">Section</span><span data-l=\"pl-official\">Sekcja</span></a></li></ul>";
